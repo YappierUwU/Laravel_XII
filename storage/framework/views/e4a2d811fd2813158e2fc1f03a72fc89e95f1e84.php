@@ -1,0 +1,1 @@
+<h1>Login</h1><?php /**PATH C:\xampp\htdocs\restoran-laravel\resources\views/login.blade.php ENDPATH**/ ?>
